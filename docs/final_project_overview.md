@@ -10,6 +10,10 @@ The project combines generative AI with deterministic natural-language processin
 
 [Watch the QuizSift demo on Google Drive](https://drive.google.com/file/d/1L5lhWHVrplSDiiQS2dvzsapZLexO_-9i/view?usp=sharing)
 
+### Demo source material
+
+The demonstration uses a local copy of *Cryptography and Network Security: Principles and Practice, Global Edition* as sample input. The source PDF is not redistributed in this public repository; users should process only documents they are authorized to use.
+
 ## Problem addressed
 
 Preparing assessment material from lectures, textbooks, and technical documents is time-consuming. Instructors must identify relevant concepts, write clear questions, construct credible wrong choices, produce several paper variants, and prepare answer keys.
