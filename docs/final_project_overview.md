@@ -8,7 +8,7 @@ The project combines generative AI with deterministic natural-language processin
 
 ## Video demonstration
 
-[Watch the QuizSift demo on Google Drive](https://drive.google.com/file/d/1L5lhWHVrplSDiiQS2dvzsapZLexO_-9i/view?usp=sharing)
+[QuizSift demo](https://drive.google.com/file/d/1L5lhWHVrplSDiiQS2dvzsapZLexO_-9i/view?usp=sharing)
 
 ### Demo source material
 
