@@ -6,6 +6,10 @@ QuizSift is a Streamlit application that converts course material into structure
 
 The project combines generative AI with deterministic natural-language processing. Ollama identifies concepts and writes question wording, while TF-IDF and cosine similarity select plausible distractors from the verified glossary. This division keeps the workflow flexible while preserving transparent, repeatable question-paper construction.
 
+## Video demonstration
+
+[Watch the QuizSift demo on Google Drive](https://drive.google.com/file/d/17kcpr1GYMkoraQoTyxGjLmZ6Ji0nLlZo/view?usp=sharing)
+
 ## Problem addressed
 
 Preparing assessment material from lectures, textbooks, and technical documents is time-consuming. Instructors must identify relevant concepts, write clear questions, construct credible wrong choices, produce several paper variants, and prepare answer keys.
